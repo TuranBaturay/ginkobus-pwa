@@ -1,5 +1,12 @@
 const cacheName = "batCache";
-const contentToCache = [];
+const contentToCache = [
+    "index.html",
+    "app.js",
+    "manifest.json",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "icons/maskable_icon.png",
+];
 
 
 self.addEventListener("install", (e) => {
