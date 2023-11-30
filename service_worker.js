@@ -1,11 +1,11 @@
 const cacheName = "batCache";
 const contentToCache = [
-    "index.html",
-    "app.js",
-    "manifest.json",
-    "icons/icon-192.png",
-    "icons/icon-512.png",
-    "icons/maskable_icon.png",
+    "./index.html",
+    "./app.js",
+    "./manifest.json",
+    "./icons/icon-192.png",
+    "./icons/icon-512.png",
+    "./icons/maskable_icon.png",
 ];
 
 
